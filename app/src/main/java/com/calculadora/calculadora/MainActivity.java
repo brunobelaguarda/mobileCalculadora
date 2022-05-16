@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         subtracao.setOnClickListener(this);
         multiplicacao.setOnClickListener(this);
         divisao.setOnClickListener(this);
-        //igual.setOnClickListener(this);
+
 
         limpar.setOnClickListener(new View.OnClickListener() {
             @Override
